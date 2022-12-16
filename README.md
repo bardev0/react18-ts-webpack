@@ -8,8 +8,8 @@ npx tsc --init
 npm install --save-dev react react-dom
 npm install --save-dev @types/react @types/react-dom
 npm install --save-dev html-webpack-plugin
-npm i -D @babel/core @babel/preset-env @babel/preset-react @babel/preset-typescript
-npm i -D @babel/plugin-transform-runtime
+npm install --save-dev @babel/core @babel/preset-env @babel/preset-react @babel/preset-typescript
+npm install --save-dev @babel/plugin-transform-runtime
 
 touch webpack.config.js
 touch ./src/index.tsx
