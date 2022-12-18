@@ -1,5 +1,13 @@
 # React18 boilerplate code with TS
 
+## Run the app
+```
+npm install
+npm run runDevServer
+
+```
+
+## Setup
 ```
 npm init -y
 npm install --save-dev webpack webpack-cli webpack-dev-server
