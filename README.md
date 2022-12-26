@@ -17,6 +17,7 @@ npm install --save-dev @types/react @types/react-dom
 npm install --save-dev html-webpack-plugin
 npm install --save-dev @babel/core @babel/preset-env @babel/preset-react @babel/preset-typescript
 npm install --save-dev @babel/plugin-transform-runtime
+npm install --save-dev sass style-loader css-loader sass-loader
 
 touch webpack.config.js
 touch ./src/index.tsx
